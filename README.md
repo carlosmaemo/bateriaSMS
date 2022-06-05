@@ -1,2 +1,2 @@
 # BateriaSMS
- Repositório do sistema BateriaSMS
+ Alerta de estado de carregamento de celular por SMS
